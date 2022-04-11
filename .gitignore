@@ -1,0 +1,13 @@
+/*
+/.*
+
+!/README.md
+!/.gitignore
+
+!/.vimrc
+!/.gitconfig
+!/.hyper.js
+!/.zshrc
+!/.vim/*/
+!/.vim/init.vim
+
