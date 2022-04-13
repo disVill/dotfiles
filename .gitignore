@@ -5,9 +5,9 @@
 !/.gitignore
 
 !/.vimrc
-!/.gitconfig
 !/.hyper.js
 !/.zshrc
+!/.vim/
 !/.vim/*/
 !/.vim/init.vim
 
