@@ -10,4 +10,6 @@
 !/.vim/
 !/.vim/*/
 !/.vim/init.vim
-
+!/.fish/
+!/.fish/*/
+!/.fish/config.fish
