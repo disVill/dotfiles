@@ -4,6 +4,7 @@
 !/README.md
 !/.gitignore
 
+!/.bashrc
 !/.vimrc
 !/.hyper.js
 !/.zshrc
