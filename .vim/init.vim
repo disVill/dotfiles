@@ -7,7 +7,7 @@ set cmdheight=2
 set updatetime=300
 set shortmess+=c
 set number
-set nocompatible              " be iMproved, required
+set nocompatible
 set noshowmode
 set hlsearch
 set shell=fish
