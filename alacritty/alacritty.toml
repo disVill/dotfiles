@@ -1,0 +1,17 @@
+[general]
+import = [
+  "~/.config/alacritty/themes/alacritty-theme/themes/dracula.toml"
+]
+live_config_reload = true
+
+[window]
+padding = { x = 12, y = 14 }
+dynamic_title = true
+
+[font]
+normal = { family = "SauceCodePro Nerd Font", style = "Regular" }
+size = 12.5
+
+[keyboard]
+bindings = [
+]
