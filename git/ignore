@@ -3,3 +3,5 @@
 .tool-versions
 docker-compose.override.yml
 .idea/*
+mise.local.toml
+myfiles
